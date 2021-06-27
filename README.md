@@ -116,6 +116,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I´m a programmer I writte code, I will not fix your computer.
+
+*Conversaciones de un joven programador*
+
+-------
 
 > Programming isn't about what you know; it's about what you can figure out.
 
